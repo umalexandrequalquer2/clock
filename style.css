@@ -1,0 +1,47 @@
+#title-site{
+    position: relative;
+    left: 184px;
+    font-size: 28px;
+    background: blue;
+}
+#botao01{
+    position: relative;
+    left: 40%;
+    background: black;
+    color: rgb(255, 255, 255);
+}
+#btn-navebar{
+    position: relative;
+    left: -89%;
+    color: rgb(179, 179, 179);
+}
+#text-site-nave{
+    nav-down: auto;
+    position: relative;
+    left: 24%;
+    color: rgb(20, 10, 10);
+    font-size: 20px;
+
+}
+#card-site{
+    position: relative;
+    left: 6%;
+    font-size: 20px;
+
+}
+#card-clock{
+    position: relative;
+    left: 6%;
+    font-size: 20px;
+
+}
+#card-donate{
+    position: relative;
+    left: 6%;
+    font-size: 20px;
+
+}
+#clock {
+    font-size: 48px;
+    font-weight: bold;
+  }
